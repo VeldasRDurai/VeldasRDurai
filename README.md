@@ -3,10 +3,9 @@
 [![Website](https://img.shields.io/website?label=personal-website&style=for-the-badge&url=https%3A%2F%2Fveldasrdurai.github.io%2Fpersonal-website%2F)](https://veldasrdurai.github.io/personal-website/)
 ## I'm a Student !!
 
-<!-- <img src="https://media.giphy.com/media/xLpr05o0hieufKfQI6/giphy.gif" align="right" width="300"> -->
-<!-- <img src="https://media.giphy.com/media/RIkvAUIkivx0PnJEnQ/giphy.gif" align="right" width="300"> -->
-<img src="header.svg" width="300" height="300" />
-
+<img src="https://media.giphy.com/media/vMuSqrwTEvoka9eBoQ/giphy.gif" align="right" valign="top" width="200">
+<img src="https://media.giphy.com/media/KzJqSrQL2uJyByXeRA/giphy.gif" align="right" width="200">
+<!-- <img src="header.svg" width="300" height="300" /> -->
 
 - 🔭 I'm currently working on my laptop :wink:
 - 🌱 I’m currently learning everything 🤣
@@ -26,10 +25,12 @@
 
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=veldasrdurai&show_icons=true&hide_border=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veldasrdurai)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veldasrdurai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=veldasrdurai&repo=archipelago-messenger)](https://github.com/VeldasRDurai/Archipelago-messenger) -->
 
 [website]: https://veldasrdurai.github.io/personal-website/
 [github]: https://github.com/VeldasRDurai
 [gmail]: mailto:veldasrdurai72@gmail.com
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://www.linkedin.com/in/veldasrdurai
 [whatsapp]: https://wa.me/+919745715512
