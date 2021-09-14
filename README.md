@@ -23,13 +23,13 @@
 
 </br></br>
 
-<img src="https://media.giphy.com/media/5z9QJF7fhZvqWiYSvm/giphy.gif" width="200" align="left" />
+<img src="https://media.giphy.com/media/5z9QJF7fhZvqWiYSvm/giphy.gif" width="300" align="left" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veldasrdurai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=veldasrdurai&show_icons=true&hide_border=true" align='left' />
 
-<img src="https://media.giphy.com/media/682lr4bYIys8556Ozw/giphy.gif" width="200" align="right" />
+<!-- <img src="https://media.giphy.com/media/682lr4bYIys8556Ozw/giphy.gif" width="200" align="right" /> -->
 
 [website]: https://veldasrdurai.github.io/personal-website/
 [github]: https://github.com/VeldasRDurai
