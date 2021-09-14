@@ -23,10 +23,13 @@
 
 </br></br>
 
-<!-- <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="200"> -->
+<img src="https://media.giphy.com/media/5z9QJF7fhZvqWiYSvm/giphy.gif" width="200" />
+
+<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=veldasrdurai&show_icons=true&hide_border=true" align='right' />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veldasrdurai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=veldasrdurai&show_icons=true&hide_border=true" align='right' />
+
+<img src="https://media.giphy.com/media/682lr4bYIys8556Ozw/giphy.gif" width="200" />
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=veldasrdurai&repo=archipelago-messenger)](https://github.com/VeldasRDurai/Archipelago-messenger) -->
 
