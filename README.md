@@ -22,9 +22,11 @@
 [<img align="left" alt="VeldasRDurai | GMail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/whatsapp.svg" />][whatsapp]
 
 </br></br>
-<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=veldasrdurai&show_icons=true&hide_border=true" align='right' />
+
+<!-- <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="200"> -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veldasrdurai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=veldasrdurai&show_icons=true&hide_border=true" align='right' />
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=veldasrdurai&repo=archipelago-messenger)](https://github.com/VeldasRDurai/Archipelago-messenger) -->
 
