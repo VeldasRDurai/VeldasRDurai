@@ -1,14 +1,14 @@
 <svg fill="none" viewBox="0 0 800 400" width="300" height="300" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        .img {
-          position:absolute;
-          left:50%;
-          top:50%;
-        }
-      </style>  
-      <img src="https://media.giphy.com/media/RIkvAUIkivx0PnJEnQ/giphy.gif" width='100%' />
+      			<style>
+				svg {
+				  position:absolute;
+				  left:50%;
+				  top:50%;
+				}
+		      </style>  
+		      <img src="https://media.giphy.com/media/RIkvAUIkivx0PnJEnQ/giphy.gif" width='100%' />
 	  </div>
   </foreignObject>
 </svg>
