@@ -21,9 +21,8 @@
 [<img align="left" alt="VeldasRDurai | GMail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
 [<img align="left" alt="VeldasRDurai | GMail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/whatsapp.svg" />][whatsapp]
 
-</br>
-
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=veldasrdurai&show_icons=true&hide_border=true" />
+</br></br>
+<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=veldasrdurai&show_icons=true&hide_border=true" align='right' />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veldasrdurai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
