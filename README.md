@@ -1,33 +1,59 @@
-### Hi there I'm :man_technologist: Veldas R Durai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there, I'm [Veldas R Durai](https://veldasrdurai.github.io/personal-website/)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
 
-[![Website](https://img.shields.io/website?label=personal-website&style=for-the-badge&url=https%3A%2F%2Fveldasrdurai.github.io%2Fpersonal-website%2F)](https://veldasrdurai.github.io/personal-website/)
-## I'm a Student !!
+<p>
+  <em>
+    A <b>student</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Ernakulam, India.
+  </em>
+ </p>
 
-<img src="https://media.giphy.com/media/vMuSqrwTEvoka9eBoQ/giphy.gif" align="right" valign="top" width="200">
-<img src="https://media.giphy.com/media/KzJqSrQL2uJyByXeRA/giphy.gif" align="right" width="200">
-<!-- <img src="header.svg" width="300" height="300" /> -->
+<img src="https://c.tenor.com/JIS_KDKKsgYAAAAd/guaton-computadora.gif" align="right" width="300" />
 
-- 🔭 I'm currently working on my laptop :wink:
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I'm not a poet 
+<em> Want to know more about me? [Click here](https://veldasrdurai.github.io/personal-website/) </em>
+<em>
+  
+**Talking about Personal Stuffs:**
+
+
+- 💼 I’m currently pursuing my final year of Bachelor's degree in Computer Science and Engineering at [Government Engineering College, Wayanad](https://www.gecwyd.ac.in/) ;
+- 🤔 My interests are with Web App Development 🖥️, Literature ✒️, Cricket 🏏, etc.. ;
+- 💬 Ask me about anything, I am happy to help ;
+- 📫 Please email via veldasrdurai72@gmail.com to reach me ;
+- 🔭 I'm currently working on my laptop 🤣 ;
+- 👯 I’m looking to collaborate with other content creators ;
+<!-- - 🥅 2021 Goals: Contribute more to Open Source projects ; -->
+<br/> 
+</em>
+
 
 ### Connect with me:
 
-[<img align="left" alt="VeldasRDurai" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="VeldasRDurai | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][github]
-[<img align="left" alt="VeldasRDurai | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="VeldasRDurai | GMail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
-[<img align="left" alt="VeldasRDurai | GMail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/whatsapp.svg" />][whatsapp]
+<!-- [<img align="left" alt="VeldasRDurai" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
+[<img align="left" alt="VeldasRDurai | GitHub" width="30px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/327222cbc79748bb5ab29aa33671e3de35837ec7/images/svg/github.svg" />][github]
+[<img align="left" alt="VeldasRDurai | LinkedIn" width="30px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/327222cbc79748bb5ab29aa33671e3de35837ec7/images/svg/linkedin.svg" />][linkedin]
+[<img align="left" alt="VeldasRDurai | GMail" width="30px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/327222cbc79748bb5ab29aa33671e3de35837ec7/images/svg/gmail_old.svg" />][gmail]
+[<img align="left" alt="VeldasRDurai | Whatsapp" width="30px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/327222cbc79748bb5ab29aa33671e3de35837ec7/images/svg/whatsapp.svg" />][whatsapp]
 
+</br>
+
+### Languages and Libraries
+
+<img align="left" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="html5">
+<img align="left" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css3">
+<img align="left" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="javascript">
+<img align="left" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python">
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" title="C">
+<img align="left" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="react">
+<img align="left" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg" title="jquery">
+<img align="left" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="node.js">
+<img align="left" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" title="express.js">
+<img align="left" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="mongodb">
+<img align="left" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="mysql">
 </br></br>
 
 <img src="https://media.giphy.com/media/5z9QJF7fhZvqWiYSvm/giphy.gif" width="300" align="left" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veldasrdurai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=veldasrdurai&show_icons=true&hide_border=true" align='left' />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veldasrdurai&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&text_color=000&icon_color=fff&theme=graywhite" />
+<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=veldasrdurai&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" align='left' />
 
 <!-- <img src="https://media.giphy.com/media/682lr4bYIys8556Ozw/giphy.gif" width="200" align="right" /> -->
 
