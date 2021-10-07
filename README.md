@@ -47,7 +47,7 @@
 <img align="left" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="node.js">
 <img align="left" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" title="express.js">
 <img align="left" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="mongodb">
-<img align="left" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="mysql">
+<img align="left" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="mysql">
 </br></br>
 
 <img src="https://media.giphy.com/media/5z9QJF7fhZvqWiYSvm/giphy.gif" width="300" align="left" />
