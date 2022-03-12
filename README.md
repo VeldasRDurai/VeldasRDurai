@@ -24,6 +24,7 @@
 <br/> 
 </em>
 
+[<img align="right" alt="VeldasRDurai | buyMeACoffee" width="300px" src="https://uc693a94d1cbaf719798a437fc05.previews.dropboxusercontent.com/p/thumb/ABeZMWCY3_7eoY9gwjgtgpSNddKw7qzRrR-Mp7JSAtaRCVrl3alj98of4BGfJJD8wH9gWxIPLZC8tfZqlf0LwiC9heYqy_qV3kNFPnaHo77c239IGLP5KKJ9Xfa2bOziftUjz3PFymDTp6ROOUXUBXnSNpHxsV1IT1jfesbuBsBaZ5X9NJhzKTCC5sm21uSzBs668UiBI5lEqJIrNP7xbcBd_m36PmBFMkMMDIDn6RUWAAkxEBiiA__Z0fidq1zatcmSdffdk4WbzxViRcAct721OluhCMOTWPx5JOTqS7jKo7jXO4Z9Z1x8LQpMoabVEKqS4_9UnPBG6Q6xqkkwXsJUlYXjGZrpMERhHv40ym5mTbnKBjh4kqNaYbnRFkWnMiw/p.png" />][buyMeACoffee]
 
 ### Connect with me:
 
@@ -62,3 +63,4 @@
 [gmail]: mailto:veldasrdurai72@gmail.com
 [linkedin]: https://www.linkedin.com/in/veldasrdurai
 [whatsapp]: https://wa.me/+919745715512
+[buyMeACoffee]: https://www.buymeacoffee.com/veldasrdurai
