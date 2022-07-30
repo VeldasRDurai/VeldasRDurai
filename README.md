@@ -24,8 +24,9 @@
 <br/> 
 </em>
 
-[<img align="right" alt="VeldasRDurai | buyMeACoffee" width="200px" src="https://uc693a94d1cbaf719798a437fc05.previews.dropboxusercontent.com/p/thumb/ABeZMWCY3_7eoY9gwjgtgpSNddKw7qzRrR-Mp7JSAtaRCVrl3alj98of4BGfJJD8wH9gWxIPLZC8tfZqlf0LwiC9heYqy_qV3kNFPnaHo77c239IGLP5KKJ9Xfa2bOziftUjz3PFymDTp6ROOUXUBXnSNpHxsV1IT1jfesbuBsBaZ5X9NJhzKTCC5sm21uSzBs668UiBI5lEqJIrNP7xbcBd_m36PmBFMkMMDIDn6RUWAAkxEBiiA__Z0fidq1zatcmSdffdk4WbzxViRcAct721OluhCMOTWPx5JOTqS7jKo7jXO4Z9Z1x8LQpMoabVEKqS4_9UnPBG6Q6xqkkwXsJUlYXjGZrpMERhHv40ym5mTbnKBjh4kqNaYbnRFkWnMiw/p.png" />][buyMeACoffee]
-
+[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" align="right" alt="VeldasRDurai | buyMeACoffee" style="height: 60px !important;width: 217px !important;border-radius: 30px !important;" >][buyMeACoffee]
+<!-- [<img align="right" alt="VeldasRDurai | buyMeACoffee" width="200px" src="https://uc693a94d1cbaf719798a437fc05.previews.dropboxusercontent.com/p/thumb/ABeZMWCY3_7eoY9gwjgtgpSNddKw7qzRrR-Mp7JSAtaRCVrl3alj98of4BGfJJD8wH9gWxIPLZC8tfZqlf0LwiC9heYqy_qV3kNFPnaHo77c239IGLP5KKJ9Xfa2bOziftUjz3PFymDTp6ROOUXUBXnSNpHxsV1IT1jfesbuBsBaZ5X9NJhzKTCC5sm21uSzBs668UiBI5lEqJIrNP7xbcBd_m36PmBFMkMMDIDn6RUWAAkxEBiiA__Z0fidq1zatcmSdffdk4WbzxViRcAct721OluhCMOTWPx5JOTqS7jKo7jXO4Z9Z1x8LQpMoabVEKqS4_9UnPBG6Q6xqkkwXsJUlYXjGZrpMERhHv40ym5mTbnKBjh4kqNaYbnRFkWnMiw/p.png" />][buyMeACoffee]
+ -->
 ### Connect with me:
 
 <!-- [<img align="left" alt="VeldasRDurai" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
